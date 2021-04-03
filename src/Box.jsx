@@ -4,7 +4,9 @@ import Watch from './Watch';
 
 const Box = () => {
   return (
-    <Watch/>
+   <div className="main">
+     <div className="screen"></div>
+   </div>
   )
 };
 

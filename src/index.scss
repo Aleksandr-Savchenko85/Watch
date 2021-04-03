@@ -1,7 +1,26 @@
 body {
- background-color: black;
- color: white;
- font-size: 50px;
- font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 50vh;
+   
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 600px;
+    border-radius: 30px;
+    background-color: wheat;
+    color:yellow;
+}
+.screen{
+    height: 170px;
+    width: 580px;
+    background-color: gray;
+    border-radius: 30px;
 }
 

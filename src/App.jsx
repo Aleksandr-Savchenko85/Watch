@@ -3,8 +3,10 @@ import Box from './Box.jsx';
 
 
 const App = () => {
-  return (
-   <Box/>
+  return (<>
+    <span className="text">digital clock</span>
+    <Box />
+  </>
   )
 };
 
