@@ -1,9 +1,10 @@
 import React from 'react';
+import Box from './Box.jsx';
 
 
 const App = () => {
   return (
-    <div>Hello user Sava</div>
+   <Box/>
   )
 };
 
