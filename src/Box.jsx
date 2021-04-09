@@ -6,8 +6,10 @@ const Box = () => {
   return (
     <div className="main">
       <div className="screen">
-        <Watch /></div>
+        <Watch />
+      </div>
     </div>
+
   )
 };
 

@@ -12,12 +12,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 200px;
-    width: 600px;
+    height: 100px;
+    width: 380px;
     border-radius: 30px;
     background-color: wheat;
-    margin-left: 170px;
-    margin-top: 20px;
+    margin-top: 12px;
    
 }
 
@@ -25,22 +24,23 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 170px;
-    width: 580px;
+    height: 90px;
+    width: 360px;
     background-color: gray;
     border-radius: 30px;
 }
 
 .watch{
-    font-size: 150px;
+    font-size: 70px;
     color:cyan;
     font-weight: 600;
+    margin-left: 40px;
  
   
-
 }
+
 .text{
-    font-size: 120px;
+    font-size: 50px;
     text-transform: uppercase;
     font-family: 'Luckiest Guy';
     color: #fff;
@@ -69,4 +69,3 @@ body {
                  0 24px 24px rgba(0,0,0,.2),
                  0 36px 36px rgba(0,0,0,.15);
 }
-
